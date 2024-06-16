@@ -1,3 +1,3 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀![](https://komarev.com/ghpvc/?username=euronias&color=591B1D)
 
-moved to [@meipurued](https://github.com/meipurued)
+moved to @meipurued
